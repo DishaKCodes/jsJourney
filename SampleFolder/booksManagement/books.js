@@ -42,3 +42,4 @@ function deleteBook(index) {
     books.splice(index, 1);
     showbooks();
 }
+//parseInt is a JavaScript function that converts a string into an integer.
